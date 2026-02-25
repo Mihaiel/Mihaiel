@@ -5,7 +5,7 @@ Building software with a focus on systems, security, and fundamentals. </br>I ex
 #### 🛠️ Current Projects
 
 - **[LeonieLab](https://github.com/Mihaiel/LeonieLab)** - Math practice tool for students with motor impairments.
-- **[TimeBit](https://github.github.com/Mihaiel/TimeBit)** - Time-based utilities and experiments.
+- **[TimeBit](https://github.com/Mihaiel/TimeBit)** - Time-based utilities and experiments.
 
 #### 📖 Focus
 Systems · Machine Learning · Software Engineering · Security · Infrastructure
