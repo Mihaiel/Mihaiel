@@ -15,8 +15,6 @@ Systems · Machine Learning · Software Engineering · Security · Infrastructur
 - Projects that test ideas in practice
 - Experiments to understand systems deeply
 
-🌍 Based in Vienna. Everything here is self-built, self-hosted, and continuously improved.
-
 <a href="https://mihaiel.com/">
   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmihaiel.com%2F&style=flat-square">
 </a>
